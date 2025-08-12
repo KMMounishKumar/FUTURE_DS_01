@@ -62,9 +62,6 @@ The dashboard provides a comprehensive view of **sales performance**, **top prod
 
 ## 📷 Dashboard Preview
 
-> Ecommerce_Dashboard
-https://github.com/Neetu24/-FUTURE_DS_01/blob/main/Ecommerce_Dashboard.png
-
 💡 Insights Discovered
 
 - 🛍️ The **Technology** category leads in total sales and profit.
